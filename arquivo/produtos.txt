@@ -1,0 +1,4 @@
+Arroz, 20
+Feijao, 15
+Acucar, 10
+Manteiga, 5
